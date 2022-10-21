@@ -1,0 +1,29 @@
+button {
+    all:unset;
+}
+
+.main-menu-container {
+    display: flex;
+}
+
+.main-menu-btn {
+    height: 20px;
+    margin: 22px 16px 0px 0px;
+}
+
+.logo {
+    margin: 20px 0px 0px 0px;
+}
+
+.cart {
+    height: 20px;
+    margin: 22px 10px 0px 0px;
+}
+
+.profile-info-container {
+    display: flex;
+}
+
+.login-btn {
+    margin: 22px 0px 0px 0px;
+}
